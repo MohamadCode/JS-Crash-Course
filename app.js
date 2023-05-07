@@ -1,1 +1,4 @@
-console.log("Hello World" [10]) 
+let greeting = "Hello Wardo"
+
+
+console.log(greeting.length ) 
